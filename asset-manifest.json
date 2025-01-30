@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.37f7feb6.chunk.css",
-    "main.js": "/static/js/main.ecce5b40.chunk.js",
-    "main.js.map": "/static/js/main.ecce5b40.chunk.js.map",
+    "main.js": "/static/js/main.61014917.chunk.js",
+    "main.js.map": "/static/js/main.61014917.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f8d61792.js",
     "runtime-main.js.map": "/static/js/runtime-main.f8d61792.js.map",
-    "static/js/2.8d3ce601.chunk.js": "/static/js/2.8d3ce601.chunk.js",
-    "static/js/2.8d3ce601.chunk.js.map": "/static/js/2.8d3ce601.chunk.js.map",
+    "static/js/2.5178749a.chunk.js": "/static/js/2.5178749a.chunk.js",
+    "static/js/2.5178749a.chunk.js.map": "/static/js/2.5178749a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6481c2800110d92cc6c9e36a434fd37b.js": "/precache-manifest.6481c2800110d92cc6c9e36a434fd37b.js",
+    "precache-manifest.762c83d6e59fca7d499f8b267ab0ee3a.js": "/precache-manifest.762c83d6e59fca7d499f8b267ab0ee3a.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.37f7feb6.chunk.css.map": "/static/css/main.37f7feb6.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
@@ -45,7 +45,6 @@
     "static/media/muffito_logo.png": "/static/media/muffito_logo.069938a8.png",
     "static/media/nptel_logo.png": "/static/media/nptel_logo.95a12a2b.png",
     "static/media/politech.png": "/static/media/politech.c0cecaf0.png",
-    "static/media/portfolio.gif": "/static/media/portfolio.414dfbd9.gif",
     "static/media/programmer.svg": "/static/media/programmer.5faf790b.svg",
     "static/media/projects_image.svg": "/static/media/projects_image.b8ba9487.svg",
     "static/media/pwa.png": "/static/media/pwa.71408db7.png",
@@ -58,8 +57,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f8d61792.js",
-    "static/js/2.8d3ce601.chunk.js",
+    "static/js/2.5178749a.chunk.js",
     "static/css/main.37f7feb6.chunk.css",
-    "static/js/main.ecce5b40.chunk.js"
+    "static/js/main.61014917.chunk.js"
   ]
 }
